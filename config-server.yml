@@ -1,2 +1,5 @@
-spring.cloud.consul.host: localhost
-spring.cloud.consul.port: 8500
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
